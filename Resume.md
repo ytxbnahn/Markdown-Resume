@@ -1,44 +1,4 @@
- <center>
-     <h1>XXX</h1>
-     <div>
-         <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             18363851157
-         </span>
-         ·
-         <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             ytnsmty@gmail.com
-         </span>
-         ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/ytxbnahn">ytxbnahn</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
-         </span>
-     </div>
- </center>
-
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
-
- - 男，1993 
- - 求职意向：前端开发工程师
- - 工作经验：4 年
- - 期望薪资：面议
-
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
-
-- 学士，烟台大学，信息与计算科学，2012.9~2016.7
-
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
-
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
-
-   负责 XXX
+ 
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
